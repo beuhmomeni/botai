@@ -73,4 +73,4 @@ async def check(ctx):
     else:
         await ctx.send('mohon maaf, tetapi anda tidak mengirim apapun')
         
-bot.run("MTEzNjI2ODA2NTc4NTUyODM5MQ.GHbadg.nDgwIdDqQ2MF1g0RvPxI6KSk9wtmQd-2flysfc")
+bot.run("")
